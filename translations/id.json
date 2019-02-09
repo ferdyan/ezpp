@@ -1,0 +1,21 @@
+{
+  "error-occured": "Sebuah kesalahan menghalangi ekstensi tidak dapat bekerja dengan benar: ",
+  "version-update-message": "Sekarang anda menggunakan ezpp! v{0}",
+  "changelog": "changelog",
+  "accuracy": "Akurasi",
+  "combo": "Kombo",
+  "empty-fc": "(empty = FC)",
+  "misses": "tidak kena",
+  "mod-hidden": "Hidden",
+  "mod-hardrock": "HardRock",
+  "mod-doubletime": "DoubleTime",
+  "mod-flashlight": "Flashlight",
+  "mod-nofail": "NoFail",
+  "mod-easy": "Easy",
+  "mod-halftime": "HalfTime",
+  "mod-spunout": "SpunOut",
+  "language": "Bahasa",
+  "settings": "Pengaturan",
+  "analytics": "Kirim secara anonim data statistik",
+  "result": "Sekitar {0}pp."
+}
